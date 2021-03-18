@@ -16,13 +16,11 @@
 """
 
 import os
-import sys
 import argparse
 from shutil import copyfile
 import json
 import shlex
 import subprocess
-import selectors
 
 
 def getInputParameters():

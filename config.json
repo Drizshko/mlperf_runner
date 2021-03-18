@@ -135,6 +135,10 @@
             }
         ],
 
+        "comment_aliases": [
+            "Aliases to replace in cmd, dir string from exec block"
+        ],
+
         "aliases": {
             "$PYTHON": "/usr/bin/python3",
             "$MLPERF_COMPL": "/root/git/inference/compliance/nvidia",
